@@ -1,0 +1,14 @@
+{
+    "name": "github-action",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/jiangbo2015/github-action.git",
+    "author": "jiangbo2015 <772051431@qq.com>",
+    "license": "MIT",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "crawler": "^1.4.0"
+    }
+}
