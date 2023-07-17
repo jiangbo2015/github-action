@@ -4,7 +4,7 @@ const c = new Crawler({
   rateLimit: 1000,
   callback: (error, res, done) => {
     console.log(res.body);
-    console.log("main");
+    console.log("dev");
     done();
   },
 });
